@@ -1,6 +1,6 @@
 # George Costanza
 
-the George Costanza Discord but
+the George Costanza Discord bot
 
 ### Requires the discord.py and dotenv modules.
 ```
